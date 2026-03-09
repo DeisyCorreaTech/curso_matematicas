@@ -972,8 +972,7 @@
   //
 
   var map = document.querySelectorAll('[data-toggle="map"]');
-  var accessToken = 'pk.eyJ1IjoiZ29vZHRoZW1lcyIsImEiOiJjanU5eHR4N2cybDU5NGVwOHZwNGprb3E0In0.msdw9q16dh8v4azJXUdiXg';
-
+  //mapboxgl.accessToken = '  ';
   //
   // Methods
   //
